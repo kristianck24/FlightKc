@@ -49,6 +49,7 @@ function populatedTable() {
         flightDetail
         );
         tableCell.innerText = flight[flightDetail];
+        
         tableRow.appendChild(tableCell);
 
     }
