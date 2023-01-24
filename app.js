@@ -49,7 +49,9 @@ function populatedTable() {
         flightDetail
         );
         tableCell.innerText = flight[flightDetail];
-        
+
+        //test comment
+
         tableRow.appendChild(tableCell);
 
     }
